@@ -1,4 +1,4 @@
-function Validate() {
+function Validate(){
   if (
     document.getElementById("keyword").value == "Octopi" &&
     document.getElementById("number").value ==
