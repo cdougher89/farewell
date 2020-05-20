@@ -1,13 +1,1 @@
-function Validate(){
-  if (
-    document.getElementById("keyword").value == "Octopi" &&
-    document.getElementById("number").value ==
-      document.getElementById("extra").value
-  ) {
-    document.getElementById("result").value = "HAGS HAGS HAGS";
-  } else {
-    document.getElementById("result").value = "Incorrect";
-  }
-}
-
-document.getElementById("submit").addEventListener("click", Validate);
+var _0x1ee7=['value','submit','keyword','addEventListener','result','Octopi','HAGS\x20HAGS\x20HAGS','getElementById','Incorrect','number','click'];(function(_0xc3f272,_0x1ee78e){var _0x148b65=function(_0x46c400){while(--_0x46c400){_0xc3f272['push'](_0xc3f272['shift']());}};_0x148b65(++_0x1ee78e);}(_0x1ee7,0x97));var _0x148b=function(_0xc3f272,_0x1ee78e){_0xc3f272=_0xc3f272-0x0;var _0x148b65=_0x1ee7[_0xc3f272];return _0x148b65;};function Validate(){if(document[_0x148b('0xa')](_0x148b('0x5'))[_0x148b('0x3')]==_0x148b('0x8')&&document[_0x148b('0xa')](_0x148b('0x1'))[_0x148b('0x3')]==document['getElementById']('extra')[_0x148b('0x3')]){document[_0x148b('0xa')]('result')[_0x148b('0x3')]=_0x148b('0x9');}else{document[_0x148b('0xa')](_0x148b('0x7'))[_0x148b('0x3')]=_0x148b('0x0');}}document[_0x148b('0xa')](_0x148b('0x4'))[_0x148b('0x6')](_0x148b('0x2'),Validate);
